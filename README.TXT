@@ -5,8 +5,8 @@ all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: SilkRoad
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PURPOSE OF PROJECT: 
+VERSION or DATE: 08/11/25
 HOW TO START THIS PROJECT:
 AUTHORS: Diego Fabian Andrade
 USER INSTRUCTIONS:
