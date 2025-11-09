@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AutonomousStoreTest
+comment0.text=\r\n\ Pruebas\ JUnit4\ para\ AutonomousStore.\r\n\ Usan\ el\ helper\ headless\ relocateUsingFreeMap(...)\ para\ evitar\ crear\ tablero/UI.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ constructorInicializaCorrecto()
+comment3.params=
+comment3.target=void\ reubicaALaSiguienteLibre()
+comment4.params=
+comment4.target=void\ saltaOcupadasYVaALaPrimeraLibreEnVentana()
+comment5.params=
+comment5.target=void\ noSeMueveSiNoHayLibresEnLaVentana()
+comment6.params=
+comment6.target=void\ vaciadoYResurtidoFuncionanComoEnLaBase()
+numComments=7

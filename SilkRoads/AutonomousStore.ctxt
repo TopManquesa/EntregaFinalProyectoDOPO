@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AutonomousStore
+comment0.text=\r\n\ Clase\ AutonomousStore\:\ representa\ una\ tienda\ que\ se\ recoloca\ autom\u00E1ticamente\r\n\ al\ ser\ colocada\ en\ el\ tablero.\r\n
+comment1.params=position\ tenges
+comment1.target=AutonomousStore(int,\ int)
+comment2.params=road
+comment2.target=void\ onPlaced(SilkRoad)
+comment3.params=routeSize\ isFree
+comment3.target=void\ relocateUsingFreeMap(int,\ boolean[])
+numComments=4

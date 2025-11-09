@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Cell
+comment0.text=\r\n\ Clase\ Cell\:\ representa\ una\ celda\ del\ tablero\ con\ color,\ borde\ y\ tama\u00F1o.\r\n
+comment1.params=color\ hole\ x\ y
+comment1.target=Cell(java.lang.String,\ boolean,\ int,\ int)
+comment2.params=color\ hole\ x\ y\ isHeadless
+comment2.target=Cell(java.lang.String,\ boolean,\ int,\ int,\ boolean)
+comment3.params=
+comment3.target=void\ makeVisible()
+comment4.params=
+comment4.target=void\ makeInvisible()
+comment5.params=
+comment5.target=java.lang.String\ getColor()
+comment6.params=
+comment6.target=int\ getSize()
+comment7.params=newColor
+comment7.target=void\ setColor(java.lang.String)
+numComments=8

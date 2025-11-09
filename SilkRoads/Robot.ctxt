@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Robot
+comment0.text=\r\n\ Clase\ Robot\:\ representa\ un\ robot\ normal\ en\ el\ tablero.\r\n\ Hereda\ de\ RobotBase\ y\ define\ su\ movimiento\ b\u00E1sico.\r\n
+comment1.params=position\ tenges
+comment1.target=Robot(int,\ int)
+comment2.params=
+comment2.target=void\ move()
+numComments=3

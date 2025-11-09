@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TenderRobot
+comment0.text=\r\n\ Clase\ TenderRobot\:\ representa\ un\ robot\ que\ solo\ toma\ la\ mitad\ del\ dinero\ disponible\ en\ las\ tiendas.\r\n\ Hereda\ de\ RobotBase\ y\ define\ su\ comportamiento\ especial.\r\n
+comment1.params=position\ tenges
+comment1.target=TenderRobot(int,\ int)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=store
+comment3.target=void\ collectFromStore(Store)
+numComments=4

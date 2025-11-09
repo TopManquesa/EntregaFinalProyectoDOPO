@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NeverBackRobot
+comment0.text=\r\n\ Clase\ NeverBackRobot\:\ representa\ un\ robot\ que\ nunca\ retrocede\ en\ el\ tablero.\r\n\ Hereda\ de\ RobotBase\ y\ define\ su\ movimiento\ especial.\r\n
+comment1.params=position\ tenges
+comment1.target=NeverBackRobot(int,\ int)
+comment2.params=
+comment2.target=void\ move()
+comment3.params=newPosition
+comment3.target=void\ moveTo(int)
+numComments=4

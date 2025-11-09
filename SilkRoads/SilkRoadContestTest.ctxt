@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SilkRoadContestTest
+comment0.text=\r\n\ Clase\ de\ pruebas\ y\ simulaci\u00F3n\ l\u00F3gica/visual\ del\ tablero.\r\n
+comment1.params=camino\ dia
+comment1.target=void\ mostrarEstadoDia(SilkRoad,\ int)
+comment2.params=milisegundos
+comment2.target=void\ pausarSimulacion(int)
+comment3.params=accionesPorDia\ lento
+comment3.target=void\ simularDias(int[][],\ boolean)
+comment4.params=accionesPorDia
+comment4.target=int[]\ resolverSimulacion(int[][])
+numComments=5

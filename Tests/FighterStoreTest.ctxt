@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FighterStoreTest
+comment0.text=\r\n\ Pruebas\ para\ FighterStore\ \u2013\ JUnit4.\r\n\ Regla\:\ solo\ entrega\ si\ robotEarnings\ >\ tenges.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ constructorInicializaCorrecto()
+comment3.params=
+comment3.target=void\ canBeServedByEsEstrictamenteMayor()
+comment4.params=
+comment4.target=void\ robotRicoRecibeYVacia()
+comment5.params=
+comment5.target=void\ robotPobreNoCambiaEstado()
+comment6.params=
+comment6.target=void\ resupplyTrasEntregaARicoRestauraYConservaContador()
+numComments=7

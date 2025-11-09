@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RobotTest
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ testConstructor()
+comment3.params=
+comment3.target=void\ testMove()
+comment4.params=
+comment4.target=void\ testReset()
+comment5.params=
+comment5.target=void\ testAddEarnings()
+numComments=6

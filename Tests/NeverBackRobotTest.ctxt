@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NeverBackRobotTest
+comment0.text=\r\n\ Pruebas\ unitarias\ para\ la\ clase\ NeverBackRobot.\r\n\ Verifica\ inicializaci\u00F3n,\ movimiento\ y\ control\ de\ ganancias.\r\n
+comment1.params=
+comment1.target=void\ testInicializacion()
+comment2.params=
+comment2.target=void\ testMovimientoAdelante()
+comment3.params=
+comment3.target=void\ testMovimientoHaciaAtrasIgnorado()
+comment4.params=
+comment4.target=void\ testMovimientoHaciaAdelanteConMoveTo()
+comment5.params=
+comment5.target=void\ testAddEarnings()
+comment6.params=
+comment6.target=void\ testNoSumaGananciaNegativa()
+numComments=7

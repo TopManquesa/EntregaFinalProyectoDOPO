@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Store
+comment0.text=\r\n\ Clase\ Store\:\ representa\ una\ tienda\ normal\ en\ el\ tablero.\r\n\ Hereda\ de\ StoreBase\ y\ solo\ define\ su\ tipo\ como\ "normal".\r\n
+comment1.params=position\ tenges
+comment1.target=Store(int,\ int)
+numComments=2
